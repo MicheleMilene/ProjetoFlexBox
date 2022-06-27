@@ -1,0 +1,11 @@
+#rodaPe{
+    display: flex;
+    background-color: #08155f;
+    color: #fff;
+    padding: 3rem;
+    flex-direction: column;
+    align-items: center;
+}
+#rodaPe p{
+    padding:1rem;
+}
